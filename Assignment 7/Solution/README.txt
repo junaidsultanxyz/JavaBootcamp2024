@@ -1,0 +1,1 @@
+in the product, sales and customer section, the add and modify features will be done inside the table
